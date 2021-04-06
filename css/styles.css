@@ -1,0 +1,29 @@
+#cool {
+    font-family: 'Bebas Neue', 'Bauhaus 93', cursive;
+    font-size: 2em;
+    Color: red;
+}
+
+.my-style {
+    font-family: 'Bebas Neue', 'Bauhaus 93', 'Aharoni', 'Monospace', 'Lucida', 'Lucida';   
+    margin-top: 0;
+    background-image: url("../img/bg.jpg");
+}
+
+.container{    
+    font-family: 'Bebas Neue', 'Bauhaus 93', cursive;
+    border: ridge;
+    border-color: red;
+    padding: 21px;
+    background-color: orange;
+    color: red;
+    border-width: 10px;    
+    margin-right:5%;
+    margin-left:5%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
